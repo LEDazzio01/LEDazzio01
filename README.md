@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Portfolio!
 
-🔭 I’m currently studying for Technical Program Manager interviews.
+🔭 Poet. Warrior. Scholar.
 <!--
 **LEDazzio01/LEDazzio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
