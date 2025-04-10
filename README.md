@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Transitioning to an AI/ML Engineering role, leveraging a strong foundation in cloud AI (GCP, Vertex AI, MLOps), Python development, and machine learning. Proven ability to translate unstructured problems into machine learning projects, develop generalizable models, and collaborate with cross-functional teams. Actively enhancing expertise, with the GCP Machine Learning Engineer certification exam scheduled for May 9, 2025. Seeking to apply technical skills and problem-solving abilities to develop and deploy innovative AI/ML solutions. 
+
+I no longer have a LinkedIn account due to the cost :)
