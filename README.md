@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Transitioning to an AI/ML Engineering role, leveraging a strong foundation in cloud AI (GCP, Vertex AI, MLOps), Python development, and machine learning. Proven ability to translate unstructured problems into machine learning projects, develop generalizable models, and collaborate with cross-functional teams. Actively enhancing expertise, with the GCP Machine Learning Engineer certification exam scheduled for May 9, 2025. Seeking to apply technical skills and problem-solving abilities to develop and deploy innovative AI/ML solutions. 
 
 My Govt Resume is in a format specific to acquisitions, but does show my extensive program management experience. This experience will allow me to effectively plan, monitor, and update leadership on the progress of my projects.
+
+Please contact me at elaine.dazzio@gmail.com 
