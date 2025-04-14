@@ -19,9 +19,4 @@ Transitioning to an AI/ML Engineering role, leveraging a strong foundation in cl
 
 My Govt Resume is in a format specific to acquisitions, but does show my extensive program management experience. This experience will allow me to effectively plan, monitor, and update leadership on the progress of my projects.
 
-Kaggle: 
-
-
-SubStack: https://substack.com/@talesofthephoenix?r=480ec3&utm_medium=ios&utm_source=profile
-
 Please contact me at elaine.dazzio@gmail.com 
