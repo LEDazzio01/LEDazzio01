@@ -1,6 +1,4 @@
 ## Welcome to my GitHub Portfolio!
-
-🔭 AI/ML Engineer | Strategic Technologist | Learner
 <!--
 **LEDazzio01/LEDazzio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
