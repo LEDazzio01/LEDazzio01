@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Acquisition Program Manager with extensive experience in data science and machine learning applications for defense systems. Recently certified as a Google Cloud Professional Machine Learning Engineer (May 2025).
+Acquisition Program Manager with extensive experience in data science and machine learning applications. Recently certified as a Google Cloud Professional Machine Learning Engineer (May 2025).
 
 🎓 Education & Certifications:
 GCP Professional Machine Learning Engineer (May 2025)
