@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 Acquisition Program Manager with extensive experience in data science and machine learning applications. Recently certified as a Google Cloud Professional Machine Learning Engineer (May 2025).
 
 🎓 Education & Certifications:
-GCP Professional Machine Learning Engineer (May 2025)
-MS Computer Science, Air Force Institute of Technology (2017) - Tau Beta Pi
-MS Computer Information Systems, Boston University (2009)
+GCP Professional Machine Learning Engineer (May 2025);
+MS Computer Science, Air Force Institute of Technology (2017) - Tau Beta Pi;
+MS Computer Information Systems, Boston University (2009);
 BS Computer & Information Science, University of Maryland (2007)
 
 💼 Professional Focus:
