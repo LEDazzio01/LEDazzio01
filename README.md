@@ -13,24 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Acquisition Program Manager with extensive experience in data science and machine learning applications. Recently certified as a Google Cloud Professional Machine Learning Engineer (May 2025).
+
+Data Science Professional specializing in machine learning applications and high-performance computing. Recently certified as a Google Cloud Professional Machine Learning Engineer (May 2025).
 
 🎓 Education & Certifications:
-GCP Professional Machine Learning Engineer (May 2025);
-MS Computer Science, Air Force Institute of Technology (2017) - Tau Beta Pi;
-MS Computer Information Systems, Boston University (2009);
+GCP Professional Machine Learning Engineer (May 2025)
+MS Computer Science, Air Force Institute of Technology (2017) - Tau Beta Pi
+MS Computer Information Systems, Boston University (2009)
 BS Computer & Information Science, University of Maryland (2007)
 
 💼 Professional Focus:
-Currently leading Strategic Resource Management initiatives, specializing in data acquisition, cleaning, exploratory data analysis, and ML model deployment for enhanced decision-making in defense acquisition programs.
+Leveraging extensive experience in data acquisition, cleaning, exploratory data analysis, and ML model deployment to tackle complex real-world challenges. Passionate about developing robust, scalable solutions for critical decision-making systems.
 
 🔧 Technical Interests:
-Machine learning applications in program management;
-Data-driven decision systems;
-Strategic resource optimization;
-Defense acquisition analytics;
-Conformal prediction
+Conformal Prediction: Building reliable uncertainty estimates for high-stakes ML applications
+GPU-Accelerated ML: Optimizing training pipelines and inference for 10-100x speedups
+Adversarial Robustness: Developing models resilient to distribution shifts and attacks
 
 🚀 Goals:
-Applying ML expertise gained from managing $2B+ defense programs to solve complex data challenges and contribute to the ML community.
+Applying deep expertise from managing large-scale technical programs to contribute innovative solutions to the ML community, with particular focus on conformal prediction methods and GPU-accelerated workflows.
 
