@@ -25,10 +25,10 @@ BS Computer & Information Science, University of Maryland (2007)
 Currently leading Strategic Resource Management initiatives at AFLCMC, specializing in data acquisition, cleaning, exploratory data analysis, and ML model deployment for enhanced decision-making in defense acquisition programs.
 
 🔧 Technical Interests:
-Machine learning applications in program management
-Data-driven decision systems
-Strategic resource optimization
-Defense acquisition analytics
+Machine learning applications in program management;
+Data-driven decision systems;
+Strategic resource optimization;
+Defense acquisition analytics;
 Conformal prediction
 
 🚀 Goals:
