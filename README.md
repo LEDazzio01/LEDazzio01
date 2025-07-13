@@ -35,7 +35,6 @@ My current work focuses on developing robust, deployable ML systems that go beyo
 - BS Computer & Info Science, University of Maryland (2007)
 
 🚀 Goals
-I’m building toward a role where I can:
 - Deliver causally grounded, uncertainty-aware machine learning systems
 - Architect fast, transparent pipelines that hold up under real-world pressure
 - Mentor, collaborate, and contribute to the next generation of model-aware engineering
