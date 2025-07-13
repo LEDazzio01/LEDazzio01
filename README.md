@@ -13,23 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔥 About Me
+I’m a Machine Learning Engineer and Program Manager with a deep track record in high-performance modeling, conformal prediction, and real-world uncertainty estimation. I combine rigorous academic training with hands-on experience solving structured prediction problems—most recently in competitive environments like the Prediction Interval II Kaggle competition, where I built an ensemble conformal system with calibrated interval shrinkage and fold-aware spatial validation.
 
-Data Science Professional specializing in machine learning applications and high-performance computing. Recently certified as a Google Cloud Professional Machine Learning Engineer (May 2025).
+Certified as a Google Cloud Professional ML Engineer (May 2025), I bring a rare mix of systems engineering discipline and cutting-edge modeling skills—including CatBoost/XGBoost pipelines, dynamic gamma tuning, and conformal calibration layers for coverage-guaranteed prediction intervals.
 
-🎓 Education & Certifications:
-- GCP Professional Machine Learning Engineer (May 2025)
-- MS Computer Science, Air Force Institute of Technology (2017) - Tau Beta Pi
-- MS Computer Information Systems, Boston University (2009)
-- BS Computer & Information Science, University of Maryland (2007)
+My current work focuses on developing robust, deployable ML systems that go beyond point estimates and into decision-aware uncertainty modeling—because in high-stakes domains, confidence isn't a luxury, it's a requirement.
 
-💼 Professional Focus:
-Leveraging extensive experience in data acquisition, cleaning, exploratory data analysis, and ML model deployment to tackle complex real-world challenges. Passionate about developing robust, scalable solutions for critical decision-making systems.
+🎯 Core Competencies
+- Conformal Prediction: Fold-aware residual modeling, non-symmetric calibration, dynamic gamma optimization
+- Spatiotemporal Validation: Block bootstrap & cluster-aware cross-validation to prevent leakage and overfitting
+- Kaggle-Level Feature Engineering: KNN-derived comps, asymmetric interval ensembling, hybrid quantile + residual models
+- ML Stack: CatBoost, XGBoost, LightGBM, sklearn, pandas, PyTorch (in progress)
+- Infra + Acceleration: Google Cloud AI, GPU-accelerated model training, large-scale inference workflows
 
-🔧 Technical Interests:
-- Conformal Prediction: Building reliable uncertainty estimates for high-stakes ML applications
-- GPU-Accelerated ML: Optimizing training pipelines and inference for 10-100x speedups
-- Adversarial Robustness: Developing models resilient to distribution shifts and attacks
+🧠 Education & Certs
+- GCP Professional Machine Learning Engineer, May 2025
+- MS Computer Science, Air Force Institute of Technology (Tau Beta Pi, 2017)
+- MS Computer Info Systems, Boston University (2009)
+- BS Computer & Info Science, University of Maryland (2007)
 
-🚀 Goals:
-Applying deep expertise from managing large-scale technical programs to contribute innovative solutions to the ML community, with particular focus on conformal prediction methods and GPU-accelerated workflows.
-
+🚀 Goals
+I’m building toward a role where I can:
+- Deliver causally grounded, uncertainty-aware machine learning systems
+- Architect fast, transparent pipelines that hold up under real-world pressure
+- Mentor, collaborate, and contribute to the next generation of model-aware engineering
