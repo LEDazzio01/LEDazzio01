@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 🔥 About Me
 
-I’m a Machine Learning Engineer and Program Manager with a deep track record in high-performance modeling, conformal prediction, and real-world uncertainty estimation. I combine rigorous academic training with hands-on experience solving structured prediction problems—most recently in competitive environments like the Prediction Interval II Kaggle competition, where I built an ensemble conformal system with calibrated interval shrinkage and fold-aware spatial validation.
+I’m a Machine Learning Engineer and Program Manager with a deep track record in high-performance modeling, conformal prediction, and real-world uncertainty estimation. I combine rigorous academic training with hands-on experience solving structured prediction problems—most recently in competitive environments like the Prediction Interval II Kaggle competition, where I built a conformal system with calibrated interval shrinkage and fold-aware spatial validation.
 
 Certified as a Google Cloud Professional ML Engineer (May 2025), I bring a rare mix of systems engineering discipline and cutting-edge modeling skills—including CatBoost/XGBoost pipelines, dynamic gamma tuning, and conformal calibration layers for coverage-guaranteed prediction intervals.
 
