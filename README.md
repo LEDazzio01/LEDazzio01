@@ -14,27 +14,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔥 About Me
+I'm a Machine Learning Engineer (and technical Program Manager) specializing in uncertainty modeling, structured prediction, and building ML systems that know what they don't know. My hands-on career spans defense-grade systems engineering and conformal prediction research—most recently demonstrated in Kaggle’s Prediction Interval II competition, where I developed a nested, leak-free conformal pipeline with calibrated interval shrinkage and spatiotemporal cross-validation.
 
-I'm a Machine Learning Engineer and Program Manager with a passion for uncertainty modeling, structured prediction, and building systems that know what they don't know. My career spans defense-grade systems engineering and cutting-edge conformal prediction research—most recently showcased in Kaggle’s Prediction Interval II competition, where I designed a hybrid quantile-residual pipeline with calibrated interval shrinkage and spatiotemporal cross-validation.
+Certified as a Google Cloud Professional Machine Learning Engineer (May 2025), I deliver production-grade models with a focus on empirical calibration, robustness, and scalable deployment. My toolkit includes CatBoost, XGBoost, LightGBM, scikit-learn, and advanced techniques like dynamic gamma tuning and conformal residual modeling for robust prediction intervals.
 
-In May 2025, I earned my Google Cloud Professional ML Engineer certification, reflecting a commitment to production-grade ML practices. My toolbelt includes CatBoost, XGBoost, LightGBM, and scikit-learn, along with dynamic gamma tuning and conformal calibration layers that enforce empirical coverage while minimizing interval width.
-
-Inspired by the discipline and clarity of Elizabethan statecraft (yes, I’m a history geek—Queen Elizabeth I is my lodestar for leadership), I believe well-calibrated models, like great decisions, require both precision and perspective.
+My analytical approach is inspired by the discipline and clarity of Elizabethan statecraft—Queen Elizabeth I is my lodestar for leadership—reminding me that the best-calibrated models, like great decisions, require both precision and perspective.
 
 🎯 Core Competencies
-- Conformal Prediction: Dynamic gamma tuning, non-symmetric calibration, fold-aware residual modeling
-- Spatiotemporal Validation: Block bootstrap and cluster-aware CV to defeat leakage
-- Feature Engineering: KNN-based comparables, hybrid quantile + residual pipelines, interval ensembling
-- ML Stack: CatBoost, XGBoost, LightGBM, scikit-learn, pandas, PyTorch (in progress)
-- Infra + Acceleration: Google Cloud AI, GPU training pipelines, large-scale inference workflows
+ - Conformal Prediction: Dynamic gamma tuning, non-symmetric calibration, fold-aware residual modeling
+ - Spatiotemporal Validation: Cluster-aware cross-validation, fold-partitioned validation to control leakage
+ - Feature Engineering: KNN-based comparables, hybrid quantile + residual pipelines, interval ensembling
+ - ML Stack: CatBoost, XGBoost, LightGBM, scikit-learn, pandas, Polars, PyTorch
+ - Cloud & Infra: Google Cloud AI, GPU-accelerated pipelines, large-scale inference workflows
 
 🧠 Education & Certifications
-- Google Cloud Professional ML Engineer, May 2025
-- MS, Computer Science, Air Force Institute of Technology (Tau Beta Pi, 2017)
-- MS, Computer Information Systems, Boston University (2009)
-- BS, Computer & Information Science, University of Maryland (2007)
+ - Google Cloud Professional Machine Learning Engineer, 2025
+ - M.S., Computer Science, Air Force Institute of Technology (Tau Beta Pi, 2017)
+ - M.S., Computer Information Systems, Boston University (2009)
+ - B.S., Computer and Information Science, University of Maryland (2007)
 
 🚀 Goals
-- Deliver decision-aware, causally grounded ML systems that operate under uncertainty
-- Build transparent, high-throughput pipelines for complex, high-stakes domains
-- Mentor and collaborate across teams that value rigor, creativity, and domain-aware modeling
+ - Deliver decision-aware, causally grounded ML systems that thrive under uncertainty
+ - Build transparent, high-throughput pipelines for complex, high-stakes domains
+ - Mentor and collaborate with teams that value rigor, creativity, and domain-aware modeling
+
+Open to connecting with fellow practitioners passionate about robust, interpretable ML and creative problem-solving.
