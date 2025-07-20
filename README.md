@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔥 About Me
+
 I'm a Machine Learning Engineer (and technical Program Manager) specializing in uncertainty modeling, structured prediction, and building ML systems that know what they don't know. My hands-on career spans defense-grade systems engineering and conformal prediction research—most recently demonstrated in Kaggle’s Prediction Interval II competition, where I developed a nested, leak-free conformal pipeline with calibrated interval shrinkage and spatiotemporal cross-validation.
 
 Certified as a Google Cloud Professional Machine Learning Engineer (May 2025), I deliver production-grade models with a focus on empirical calibration, robustness, and scalable deployment. My toolkit includes CatBoost, XGBoost, LightGBM, scikit-learn, and advanced techniques like dynamic gamma tuning and conformal residual modeling for robust prediction intervals.
