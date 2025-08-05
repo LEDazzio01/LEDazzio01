@@ -15,36 +15,44 @@ Here are some ideas to get you started:
 -->
 🔥 About Me
 
-I’m a Machine Learning Engineer and technical Program Manager specializing in robust, uncertainty-aware ML solutions—ready to bring my passion for advanced modeling and AI transformation to London’s dynamic tech and data science community.
+I’m a Machine Learning Engineer and technical Program Manager specializing in robust, uncertainty-aware ML solutions—eager to bring my passion and expertise to London’s dynamic tech and data science scene. With 17+ years’ experience across US defense, AI R&D, and program leadership, I focus on building ML systems where precision, scale, and real-world business value meet.
 
-With 17+ years of hands-on experience spanning US defense systems, program leadership, and applied AI research, I thrive at the intersection of model precision, scalable engineering, and practical business impact. Most recently, I engineered leak-free, conformally calibrated prediction intervals for Kaggle’s Prediction Interval II competition, alongside a top-1% global Notebooks ranking and active progress toward Master status.
+Recent highlights:
+ - Engineered leak-free, conformally calibrated prediction intervals for Kaggle’s Prediction Interval II competition
+ - Top 1% global Kaggle Notebooks ranking; progressing toward Master status
+ - Certified Google Cloud Professional ML Engineer (2025)
 
-A certified Google Cloud Professional Machine Learning Engineer (2025), I build production-ready ML pipelines with:
- - Empirical calibration
- - Spatiotemporal and cluster-aware validation
- - Scalable deployment across Google Cloud and modern MLOps stacks
- - My toolkit includes CatBoost, XGBoost, LightGBM, scikit-learn, and advanced ensembling for reliable, interpretable predictions. I’m inspired by rigorous, historically informed decision-making—think Elizabethan statecraft meets modern AI engineering—balancing precision with broader perspective.
+Technical Focus:
+ - Empirical calibration & conformal prediction (dynamic gamma tuning, non-symmetric calibration, fold-/cluster-aware validation)
+ - Spatiotemporal validation with advanced leakage controls
+ - Feature engineering: KNN-based, interval ensembling, quantile-residual pipelines
+
+Tooling: CatBoost, XGBoost, LightGBM, scikit-learn, pandas; PyTorch (actively learning)
+
+Cloud/MLOps: Google Cloud AI platform, GPU-accelerated inference, scalable pipelines
+
+Approach: Inspired by rigorous, historically informed decision-making (think: Elizabethan statecraft meets modern AI engineering), I design interpretable, production-ready pipelines that balance precision with long-term, system-wide impact.
 
 🌍 Looking Ahead
 
-Actively seeking to relocate to London (UK) to join and help lead diverse teams solving impactful challenges in data science, retail, finance, sustainability, or technology innovation. I love collaborating with fellow practitioners who value rigor, creativity, and domain insight.
+Relocating to London (UK) and open to leadership or senior hands-on roles in data science, retail, finance, sustainability, or innovative tech. I thrive in teams that value rigor, creativity, and domain expertise—and love collaborating with practitioners passionate about robust ML and impactful AI.
 
 🎯 Core Competencies
- - Conformal Prediction: Dynamic gamma tuning, non-symmetric calibration, fold-aware modeling
- - Spatiotemporal Validation: Partitioned and cluster-based leakage control
- - Feature Engineering: KNN-based methods, hybrid quantile-residual pipelines, interval ensembling
- - ML Stack: CatBoost, XGBoost, LightGBM, scikit-learn, pandas; PyTorch (learning, ongoing)
- - Cloud & Infra: Google Cloud AI, GPU-accelerated inference, large-scale pipelines
+ - Conformal & quantile prediction
+ - Spatiotemporal/cluster-aware validation
+ - Transparent and scalable ML pipelines
+ - Cross-functional program/tech leadership
+ - Cloud ML deployment (GCP-certified, 2025)
 
 🧠 Education & Certifications
- - Google Cloud Prof. ML Engineer, 2025
- - M.S., Computer Science, AFIT (Tau Beta Pi)
- - M.S., Computer Info Systems, Boston Univ.
- - B.S., Computer and Information Science, Univ. Maryland
+ - Google Cloud Prof. ML Engineer (2025)
+ - MS, Computer Science, AFIT (Tau Beta Pi)
+ - MS, Computer Info Systems, Boston Univ.
+ - BS, Computer and Information Science, Univ. Maryland
 
 🚀 Goals
- - Deploy decision-aware, causally robust ML systems in real-world, high-stakes domains
- - Build transparent pipelines for complex analytics and business applications
- - Mentor and collaborate with teams committed to technical excellence and creative problem-solving
-   
-Open to connecting with London/UK employers, Kaggle community members, and anyone passionate about robust ML and impactful AI applications!
+ - Deploy causally robust ML for high-stakes, real-world domains
+ - Build transparent, decision-aware analytics pipelines
+ - Mentor and collaborate with teams pursuing excellence and creative problem solving
+
+Open to connections—let’s advance trustworthy, high-impact AI together!
