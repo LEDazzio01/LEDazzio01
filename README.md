@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[BANNER_IMAGE_URL](https://raw.githubusercontent.com/LEDazzio01/LEDazzio01/main/assets/banner.png)" alt="Phoenix Banner" width="100%">
+  <img src="ChatGPT Image Aug 9, 2025, 09_32_30 PM.jpg" alt="Phoenix Banner" width="100%">
 </p>
 
 # L. Elaine Dazzio
@@ -39,3 +39,4 @@ Committed to **trustworthy AI** with measurable, real-world impact.
 <p align="center">
   <sub>© 2025 L. Elaine Dazzio · All rights reserved.</sub>
 </p>
+
