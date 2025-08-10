@@ -1,25 +1,41 @@
-## Building trustworthy, uncertainty-aware AI - where Elizabethan strategy meets modern machine learning.
-<!--
-**LEDazzio01/LEDazzio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<p align="center">
+  <img src="BANNER_IMAGE_URL" alt="Phoenix Banner" width="100%">
+</p>
 
-Here are some ideas to get you started:
+# L. Elaine Dazzio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-17+ years across US defense, AI R&D, and enterprise leadership. Top 1% Kaggle Notebooks · Google Cloud Prof. ML Engineer (2025). I design interpretable, production-ready pipelines built to endure and adapt.
+**Building trustworthy, uncertainty-aware AI — where Elizabethan strategy meets modern machine learning.**
 
-Core Focus
- - Conformal prediction & uncertainty calibration
- - Strategic, system-level decision making
- - Advanced feature engineering & leakage prevention
- - GCP AI Platform · GPU inference · scalable MLOps
+---
 
-Looking Ahead
-Planning to relocate to London in early 2028 — open to senior technical or leadership roles in data science, retail, finance, sustainability, or innovative tech. Committed to trustworthy AI with measurable, real-world impact.
+### 🔍 About Me
+17+ years across **US defense**, **AI R&D**, and **enterprise leadership**.  
+**Top 1% Kaggle Notebooks** · **Google Cloud Prof. ML Engineer (2025)**.  
+I design **interpretable, production-ready pipelines** built to endure and adapt.
+
+---
+
+### 🛠 Core Focus
+- Conformal prediction & uncertainty calibration  
+- Strategic, system-level decision making  
+- Advanced feature engineering & leakage prevention  
+- GCP AI Platform · GPU inference · scalable MLOps  
+
+---
+
+### 🌍 Looking Ahead
+Planning to relocate to **London** in early 2028 — open to **senior technical or leadership roles** in data science, retail, finance, sustainability, or innovative tech.  
+Committed to **trustworthy AI** with measurable, real-world impact.
+
+---
+
+### 📫 Connect
+- 📂 [Kaggle Profile](YOUR_KAGGLE_LINK)  
+- 📰 [Substack: Tales of the Phoenix](YOUR_SUBSTACK_LINK)  
+
+---
+
+<p align="center">
+  <sub>© 2025 L. Elaine Dazzio · All rights reserved.</sub>
+</p>
