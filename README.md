@@ -10,9 +10,9 @@
 ---
 
 ### 🔍 About Me
-17+ years across **US defense**, **AI R&D**, and **enterprise leadership**.  
-**Top 1% Kaggle Notebooks** · **Google Cloud Prof. ML Engineer (2025)**.  
-I design **interpretable, production-ready pipelines** built to endure and adapt.
+ - 17+ years across **US defense**, **AI R&D**, and **enterprise leadership**.  
+ - **Top 1% Kaggle Notebooks** · **Google Cloud Prof. ML Engineer (2025)**.  
+ - I design **interpretable, production-ready pipelines** built to endure and adapt.
 
 ---
 
