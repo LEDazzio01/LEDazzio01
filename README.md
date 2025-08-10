@@ -1,4 +1,4 @@
-## Welcome to my GitHub Repository!
+## Machine Learning Engineer & Program Leader specializing in robust, uncertainty-aware AI—where precision meets scale.
 <!--
 **LEDazzio01/LEDazzio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔥 About Me
+17+ years spanning US defense, AI R&D, and enterprise leadership. Top 1% Kaggle Notebooks · Google Cloud Prof. ML Engineer (2025). I design interpretable, production-ready pipelines built to endure and adapt.
 
-Machine Learning Engineer & Program Leader specializing in robust, uncertainty-aware AI—where precision meets scale. 17+ years across US defense, AI R&D, and enterprise leadership. Top 1% Kaggle Notebooks, Google Cloud Prof. ML Engineer (2025). Designing interpretable, production-ready pipelines that stand the test of time.
+Core Focus
+ - Conformal prediction & uncertainty calibration
+ - Strategic, system-level decision making
+ - Advanced feature engineering & leakage prevention
+ - GCP AI Platform · GPU inference · scalable MLOps
 
-Core Focus:
- - Conformal & quantile prediction
- - Spatiotemporal / cluster-aware validation
- - Advanced feature engineering & leakage controls
- - GCP AI Platform, GPU inference, scalable MLOps
-
-Looking Ahead: Relocating to London—open to senior technical or leadership roles in data science, retail, finance, sustainability, or innovative tech. Committed to trustworthy AI that delivers real-world impact.
+Looking Ahead
+Planning to relocate to London in early 2028—open to senior technical or leadership roles in data science, retail, finance, sustainability, or innovative tech. Committed to trustworthy AI with measurable, real-world impact.
