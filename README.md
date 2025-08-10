@@ -25,8 +25,8 @@
 ---
 
 ### 🌍 Looking Ahead
-Planning to relocate to **London** in early 2028 — open to **senior technical or leadership roles** in data science, retail, finance, sustainability, or innovative tech.  
-Committed to **trustworthy AI** with measurable, real-world impact.
+ - Planning to relocate to **London** in early 2028 — open to **senior technical or leadership roles** in data science, retail, finance, sustainability, or innovative tech.  
+ - Committed to **trustworthy AI** with measurable, real-world impact.
 
 ---
 
