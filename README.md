@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="ChatGPT Image Aug 9, 2025, 09_32_30 PM.jpg" alt="Phoenix Banner" width="25%">
+  <img src="ChatGPT Image Aug 9, 2025, 09_32_30 PM.jpg" alt="Phoenix Banner" width="35%">
 </p>
 
 # L. Elaine Dazzio
