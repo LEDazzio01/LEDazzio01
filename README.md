@@ -31,8 +31,8 @@
 ---
 
 ### 📫 Connect
-- 📂 [Kaggle Profile](YOUR_KAGGLE_LINK)  
-- 📰 [Substack: Tales of the Phoenix](YOUR_SUBSTACK_LINK)  
+- 📂 [Kaggle Profile](https://www.kaggle.com/elainedazzio)  
+- 📰 [Substack: Tales of the Phoenix](https://www.kaggle.com/elainedazzio)  
 
 ---
 
