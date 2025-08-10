@@ -1,4 +1,4 @@
-## Machine Learning Engineer & Program Leader specializing in robust, uncertainty-aware AI - where precision meets scale.
+## Building trustworthy, uncertainty-aware AI—where Elizabethan strategy meets modern machine learning.
 <!--
 **LEDazzio01/LEDazzio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
