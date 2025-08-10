@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Phoenix Banner" width="100%">
+  <img src="[BANNER_IMAGE_URL](https://raw.githubusercontent.com/LEDazzio01/LEDazzio01/main/assets/banner.png)" alt="Phoenix Banner" width="100%">
 </p>
 
 # L. Elaine Dazzio
