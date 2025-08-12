@@ -32,7 +32,7 @@
 
 ### 📫 Connect
 - 📂 [Kaggle Profile](https://www.kaggle.com/elainedazzio)  
-- 📰 [Substack: Tales of the Phoenix](https://www.kaggle.com/elainedazzio)  
+- 📰 [Substack: Tales of the Phoenix](https://talesofthephoenix.substack.com/)  
 
 ---
 
