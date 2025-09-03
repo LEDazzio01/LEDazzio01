@@ -10,7 +10,7 @@
 ---
 
 ### 🔍 About Me
- - AI/ML engineer and program leader blending 17+ years in U.S. defense, applied AI R&D, and enterprise systems. Top 1% Kaggle Notebooks contributor and Google Cloud Professional ML Engineer (2025). Current focus: conformal prediction, uncertainty calibration, and scalable MLOps (GPU inference on GCP Vertex AI). Skilled in system-level decision making, advanced feature engineering, and leakage-resistant model design. Actively building international networks toward a London relocation in 2028, open to senior technical or leadership roles in data science, sustainability, and frontier tech.
+ - AI/ML engineer and program leader blending 17+ years in U.S. defense, applied AI R&D, and enterprise systems. Top 1% Kaggle Notebooks contributor and Google Cloud Professional ML Engineer (2025). Current focus: conformal prediction, uncertainty calibration, and scalable MLOps (GPU inference on GCP Vertex AI). Skilled in system-level decision making, advanced feature engineering, and leakage-resistant model design. Open to senior technical or leadership roles in data science, sustainability, and frontier tech.
 ---
 
 ### 📫 Connect
