@@ -8,11 +8,12 @@
 *AI/ML engineer focused on building trustworthy, interpretable, and resilient machine learning systems for the real world.*
 
 ---
+🔍 About Me
 
-### 🔍 About Me
 I’m an AI/ML engineer and program leader with 17+ years in U.S. defense, applied AI R&D, and enterprise systems. In 2025 I became a Google Cloud Professional Machine Learning Engineer, and my current focus is on explainable AI, conformal prediction, and uncertainty calibration.
 
 My work centers on making machine learning models not just powerful, but trustworthy. That means building leakage-resistant systems, scalable GPU inference pipelines, and methods that keep human decision-makers in the loop. I believe accuracy alone isn’t enough—AI must be interpretable, resilient, and safe for the real world.
+
 ---
 
 ### 📫 Connect
