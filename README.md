@@ -5,7 +5,7 @@
 
 # L. Elaine Dazzio
 
-*Building trustworthy, uncertainty-aware AI — where Elizabethan strategy meets modern machine learning.*
+*AI/ML engineer focused on building trustworthy, interpretable, and resilient machine learning systems for the real world.*
 
 ---
 
