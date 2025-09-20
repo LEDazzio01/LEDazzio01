@@ -2,6 +2,7 @@
 <p align="center">
   <img src="ChatGPT Image Aug 9, 2025, 09_32_30 PM.jpg" alt="Phoenix Banner" width="35%">
 </p>
+<p align="center"><em>Rising, rebuilding, and leading as the Professional Phoenix</em></p>
 
 # L. Elaine Dazzio
 
@@ -18,6 +19,7 @@ My work centers on making machine learning models not just powerful, but trustwo
 
 ### 📫 Connect
 - 📰 [Substack: Tales of the Phoenix](https://talesofthephoenix.substack.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/l-elaine-dazzio-030945385)  
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/ledazzio)
 
 ---
@@ -25,5 +27,6 @@ My work centers on making machine learning models not just powerful, but trustwo
 <p align="center">
   <sub>© 2025 L. Elaine Dazzio · All rights reserved.</sub>
 </p>
+
 
 
