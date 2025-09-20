@@ -19,7 +19,7 @@ My work centers on making machine learning models not just powerful, but trustwo
 
 ### 📫 Connect
 - 📰 [Substack: Tales of the Phoenix](https://talesofthephoenix.substack.com/)  
-- 💼 [LinkedIn](www.linkedin.com/in/l-elaine-dazzio-030945385)  
+- 💼 [LinkedIn](www.linkedin.com/in/l-elaine-dazzio-030945385/)  
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/ledazzio)
 
 ---
