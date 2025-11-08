@@ -2,18 +2,21 @@
 <p align="center">
   <img src="ChatGPT Image Aug 9, 2025, 09_32_30 PM.jpg" alt="Phoenix Banner" width="35%">
 </p>
-<p align="center"><em>Rising, rebuilding, and leading as the Professional Phoenix</em></p>
+<p align="center"><em> </em></p>
 
 # L. Elaine Dazzio
 
-*AI/ML engineer focused on building trustworthy, interpretable, and resilient machine learning systems for the real world.*
+*TPM | AI/ML Engineer | Phoenix 🐦‍🔥 | Active Top Secret Clearance*
 
 ---
 🔍 About Me
 
-I’m an AI/ML engineer and program leader with 17+ years in U.S. defense, applied AI R&D, and enterprise systems. In 2025 I became a Google Cloud Professional Machine Learning Engineer, and my current focus is on explainable AI, conformal prediction, and uncertainty calibration.
-
-My work centers on making machine learning models not just powerful, but trustworthy. That means building leakage-resistant systems, scalable GPU inference pipelines, and methods that keep human decision-makers in the loop. I believe accuracy alone isn’t enough—AI must be interpretable, resilient, and safe for the real world.
+Technical Program Manager with 17+ years leading complex, multi-disciplinary programs in U.S. Air Force
+acquisitions. Google Cloud Professional Machine Learning Engineer (2025-2027) with proven expertise
+delivering cross-functional programs from strategy through execution. Track record managing
+multi-billion-dollar initiatives, aligning stakeholders across engineering, product, policy, and executive
+leadership to drive measurable business outcomes. Active Top Secret Clearance. Open to relocation or
+remote collaboration.
 
 ---
 
