@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="ChatGPT Image Aug 9, 2025, 09_32_30 PM.jpg" alt="Phoenix Banner" width="35%">
+  <img src="Copilot_20251122_225913.png" alt="Phoenix Banner" width="35%">
 </p>
 <p align="center"><em> </em></p>
 
