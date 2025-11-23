@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Copilot_20251122_225913.png" alt="Phoenix Banner" width="35%">
+  <img src="Copilot_20251122_225913.png" alt="Phoenix Banner" width="100%">
 </p>
 <p align="center"><em> </em></p>
 
