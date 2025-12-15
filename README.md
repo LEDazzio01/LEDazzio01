@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*AI/ML Engineer | Phoenix 🐦‍🔥 | Active Top Secret Clearance*
+*AI/ML Engineer | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
