@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*TPM | AI/ML Engineer | Phoenix 🐦‍🔥 | Active Top Secret Clearance*
+*AI/ML Engineer | Phoenix 🐦‍🔥 | Active Top Secret Clearance*
 
 ---
 🔍 About Me
