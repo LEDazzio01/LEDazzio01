@@ -11,12 +11,7 @@
 ---
 🔍 About Me
 
-Technical Program Manager with 17+ years leading complex, multi-disciplinary programs in U.S. Air Force
-acquisitions. Google Cloud Professional Machine Learning Engineer (2025-2027) with proven expertise
-delivering cross-functional programs from strategy through execution. Track record managing
-multi-billion-dollar initiatives, aligning stakeholders across engineering, product, policy, and executive
-leadership to drive measurable business outcomes. Active Top Secret Clearance. Open to relocation or
-remote collaboration.
+I am a Technical Program Manager pivoting to full-time individual contributor (IC) technical roles. I combine 17+ years of mission-critical defense experience with a modern, hands-on focus on Trustworthy AI and ML reliability. Active Top Secret Clearance. Open to relocation or remote collaboration.
 
 ---
 
