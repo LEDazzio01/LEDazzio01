@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*AI/ML Engineer | Phoenix 🐦‍🔥*
+*TPM | AI/ML Engineer | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
