@@ -16,9 +16,8 @@ I am a Technical Program Manager pivoting to full-time individual contributor (I
 ---
 
 ### 📫 Connect
-- 📰 [Substack: Tales of the Phoenix](https://talesofthephoenix.substack.com/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/l-elaine-dazzio-030945385)  
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/ledazzio)
+
 
 ---
 
