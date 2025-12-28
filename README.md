@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*TPM | AI/ML Engineer | Phoenix 🐦‍🔥*
+*Principal Technical Program Manager | AI Safety & Security | LLM Guardrails | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
