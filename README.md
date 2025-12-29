@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*Principal Technical Program Manager | AI Safety & Security | LLM Guardrails | Phoenix 🐦‍🔥*
+*Technical Program Manager | AI/ML Engineer | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
