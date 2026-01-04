@@ -25,7 +25,7 @@ Technical Note: All engineering prototypes and code repositories featured on thi
 ---
 
 <p align="center">
-  <sub>© 2025 L. Elaine Dazzio · All rights reserved.</sub>
+  <sub>© 2026 L. Elaine Dazzio · All rights reserved.</sub>
 </p>
 
 
