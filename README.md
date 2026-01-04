@@ -11,7 +11,7 @@
 ---
 🔍 About Me
 
-Principal-level Technical Program Manager and AI/ML Engineer with 17+ years of experience in U.S. Air Force acquisitions. Unique dual-competency in High-Stakes Program Leadership ($3.6B+ portfolios) and Hands-on AI Architecture (LLM Safety & MLOps). Expert in bridging the gap between legacy government infrastructure and AI-native security architectures, driving projects from 0-to-1 incubation (prototyping multi-agent systems) to 1-to-N enterprise scale.
+Versatile Technology Leader with 17+ years of experience driving multi-billion-dollar acquisition programs, digital transformation, and data strategy in high-stakes national security environments. Unique dual-competency bridging Executive Program Management (Risk, Stakeholder Alignment, Global Operations) and Hands-on Technical Engineering (AI/ML, Data Analytics, Cloud Security). Proven track record of orchestrating distributed, cross-functional teams to deliver mission-critical capabilities under rigorous compliance standards. Expert in translating complex engineering requirements into strategic business value.
 
 ---
 
