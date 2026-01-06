@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*Technical Program Manager | AI/ML Engineer | Phoenix 🐦‍🔥*
+*AI/ML Engineer | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
