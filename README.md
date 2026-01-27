@@ -6,12 +6,12 @@
 
 # L. Elaine Dazzio
 
-*Senior SWE | Phoenix 🐦‍🔥*
+*SWE | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
 
-Senior SWE with strong AI/ML domain knowlege with Active Top Secret Clearance and 18+ years of technical experience. Pivoting from Principal-level program leadership to hands-on software engineering. Expert in Python, Azure OpenAI, and Split Conformal Prediction. Proven track record of building fault-tolerant distributed simulations and secure GenAI agents. Certified GCP Machine Learning Engineer and specialist in Applied Conformal Prediction.
+Software Engineer with an active Top-Secret clearance and 18+ years of technical experience within U.S. Air Force acquisitions. Successfully pivoting from program management to hands-on software engineering with expertise in Python, C++, Azure OpenAI, and Conformal Prediction. Proven track record of building fault-tolerant distributed simulations and secure GenAI agents with a focus on reliability and mathematical safety guarantees.
 
 Technical Note: All engineering prototypes and code repositories featured on this profile are personal research projects, architected and developed entirely during non-duty status using personal infrastructure. They represent my independent work and passion for the craft, not official U.S. Government programs.
 
