@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*SWE | Phoenix 🐦‍🔥*
+*TPM | Engineer | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
