@@ -11,7 +11,8 @@
 ---
 🔍 About Me
 
-Professional with an active Top-Secret clearance and 18+ years of technical experience within U.S. Air Force acquisitions. Expertise in Python, C++, Azure OpenAI, and Conformal Prediction. Proven track record of building fault-tolerant distributed simulations and secure GenAI agents with a focus on reliability and mathematical safety guarantees.
+Senior Software Engineer and Systems Architect with 18+ years of experience specializing in high-performance distributed systems and safety-critical AI. Expertise in architecting low-latency
+simulations, robust C++ storage engines, and reliable GenAI agents using C++, Rust, and Python. Proven track record of navigating strict regulatory environments to deliver production-grade software with rigorous mathematical safety guarantees and uncertainty quantification (Split Conformal Prediction). Passionate about building highly scalable, fault-tolerant infrastructure at the intersection of HPC, DevSecOps, and MLOps.
 
 Technical Note: All engineering prototypes and code repositories featured on this profile are personal research projects, architected and developed entirely during non-duty status using personal infrastructure. They represent my independent work and passion for the craft, not official U.S. Government programs.
 
