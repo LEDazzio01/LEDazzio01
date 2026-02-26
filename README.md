@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*SWE | Phoenix 🐦‍🔥*
+*Software and AI Engineer | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
