@@ -11,7 +11,8 @@
 ---
 🔍 About Me
 
-Systems engineer and technical program leader pivoting to hands-on software engineering, bringing 17 years of architecting and delivering safety-critical defense systems in civilian service for the U.S. Air Force. Active open-source contributor to Microsoft’s Agent Framework. Currently building production-focused projects in Modern C++20, Rust, and Python — including a persistent LSM-Tree storage engine (LokiKV) and probabilistic AI safety frameworks using Split Conformal Prediction. Deep expertise in distributed systems, HPC infrastructure, and navigating strict regulatory environments where failure isn’t an option. Active Top Secret clearance.
+Technical Leader & Systems Engineer bringing 18+ years of architecting and delivering safety-critical defense systems in civilian service for the U.S. Air Force. Combines deep expertise in navigating strict regulatory environments with hands-on technical execution. Currently building production-focused AI safety frameworks and persistent LSM-Tree storage engines (Modern C++20, Python) and actively contributing to Microsoft's Agent Framework.
+
 
 
 
