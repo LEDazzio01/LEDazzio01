@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*Software and AI Engineer | Phoenix 🐦‍🔥*
+*Technical Leader | Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
