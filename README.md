@@ -20,15 +20,7 @@ Technical Note: All engineering prototypes and code repositories featured on thi
 
 ---
 
-### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/l-elaine-dazzio-030945385)  
 
-
----
-
-<p align="center">
-  <sub>© 2026 L. Elaine Dazzio · All rights reserved.</sub>
-</p>
 
 
 
