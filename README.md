@@ -11,7 +11,7 @@
 ---
 🔍 About Me
 
-Technical Leader & Systems Engineer bringing 18+ years of architecting and delivering safety-critical defense systems in civilian service for the U.S. Air Force. Combines deep expertise in navigating strict regulatory environments with hands-on technical execution. Currently building production-focused AI safety frameworks and persistent LSM-Tree storage engines (Modern C++20, Python) and actively contributing to Microsoft's Agent Framework.
+Technical Leader & Systems Engineer bringing 18+ years of architecting and delivering safety-critical defense systems in civilian service for the U.S. Air Force. Combines deep expertise in navigating strict regulatory environments with hands-on technical execution. Actively contributing to Microsoft's Agent Framework and KAITO open source projects.
 
 
 
