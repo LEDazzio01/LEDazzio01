@@ -11,7 +11,7 @@
 ---
 🔍 About Me
 
-Technical Leader bringing 18+ years of delivering safety-critical defense systems in civilian service for the U.S. Air Force. Combines deep expertise in navigating strict regulatory environments with hands-on technical execution. Actively contributing to Microsoft's Agent Framework and MAPIE open source projects.
+Technical Leader bringing 18+ years of delivering defense systems in civilian service for the U.S. Air Force. Combines deep expertise in navigating strict regulatory environments with hands-on technical execution. Actively contributing to Microsoft's Agent Framework and MAPIE open source projects.
 
 
 
