@@ -6,7 +6,7 @@
 
 # L. Elaine Dazzio
 
-*Technical Leader | Phoenix 🐦‍🔥*
+*Phoenix 🐦‍🔥*
 
 ---
 🔍 About Me
