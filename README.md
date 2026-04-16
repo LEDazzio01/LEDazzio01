@@ -11,8 +11,7 @@
 ---
 🔍 About Me
 
-Forging my own path, doing my own thing, figuring everything out along the way.
-
+Always forging my own path. GCP Professional Machine Learning Engineer. Actively working on Microsoft Agent Framework, MAPIE, and Pydantic open source projects.
 
 ---
 
