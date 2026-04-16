@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Copilot_20251122_225913.png" alt="Phoenix Banner" width="50%">
+  <img src="Gemini_Generated_Image_l3zmvql3zmvql3zm.jpg" alt="Phoenix Banner" width="50%">
 </p>
 <p align="center"><em> </em></p>
 
